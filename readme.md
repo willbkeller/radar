@@ -2,7 +2,7 @@ phase 1:
 
     building an "coffee can" FMCW radar
 
-    Brett TO DO:
+    TO DO:
         1. Pick Frequency range
         2. Define architecture
         3. Select components 
