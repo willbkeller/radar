@@ -4,6 +4,19 @@ phase 1:
 
     TO DO:
         1. Pick Frequency range
+        
+            a. need to be able to
+            distinguish sUAS. probably
+            north of 4 ghz. should aim for
+            being able to detect a 4x4 or
+            6x6 inch corner reflector at 
+            100m
+            
+            b. need to weight RF band on 
+            component availability and cost 
+            for selected band
+            
+            
         2. Define architecture
         3. Select components 
         4. design PCB
