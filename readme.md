@@ -1,6 +1,6 @@
 phase 1:
 
-    building an "coffee can" FMCW radar
+    building a "coffee can" FMCW radar
 
     TO DO:
         1. Pick Frequency range
