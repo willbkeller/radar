@@ -16,6 +16,7 @@ phase 1:
             component availability and cost 
             for selected band
             
+            https://www.analog.com/media/en/technical-documentation/data-sheets/adtr1107.pdf
             
         2. Define architecture
         3. Select components 
