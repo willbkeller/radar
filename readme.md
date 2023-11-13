@@ -1,22 +1,14 @@
 phase 1:
 
-    building a "coffee can" FMCW radar
+    building a "coffee can" FMCW radar front end for the ADALM pluto
 
     TO DO:
-        1. Pick Frequency range
-        
-            a. need to be able to
-            distinguish sUAS. probably
-            north of 4 ghz. should aim for
-            being able to detect a 4x4 or
-            6x6 inch corner reflector at 
-            100m
-            
-            b. need to weight RF band on 
-            component availability and cost 
-            for selected band
-            
-            https://www.analog.com/media/en/technical-documentation/data-sheets/adtr1107.pdf
+        1. Project Scope 
+            Generate a front end RF board to attach to the standard ADALM-PLUTO SDR which functions as both signal generator and passthrough for Received RF signals in testing radar up to 3.8 GHz. Board will be complete with VCO, filter bank
+
+            REV2 will contain no mixer architecture to combine both signals and include an additon TX passthrough and Power amplifiers for the TX ports available on the ADALM-PLUTO. 
+
+            DSP techniques will be used to sample the RF signals received into the ADALM-pluto to capture radar returns from sUAS. 
             
         2. Define architecture
         3. Select components 
